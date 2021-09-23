@@ -1,0 +1,4 @@
+Versão 2.0
+- Título do Projeto fora do Card liberando o Card para o mês da despesa
+- Totalizador das despesas
+- Colunas numéricas alinhadas à direita
