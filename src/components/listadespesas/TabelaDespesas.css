@@ -1,0 +1,21 @@
+.TabelaDespesas table {
+    width: 100%;
+}
+
+.TabelaDespesas th {
+    background-color: #283cae;
+    color: #fff;
+}
+
+.TabelaDespesas .Par {
+    background-color: #ddd;
+}
+
+.TabelaDespesas .Impar {
+    background-color: #ccc;
+}
+
+.TabelaDespesas .Direita 
+{
+    text-align: right;
+}
